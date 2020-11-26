@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_beCFICqQEeuMxpxQj7KPOg" id="_bdSeQCqQEeuMxpxQj7KPOg" label="youtube_songs" purpose="list of youtube songs" description="a list of youtube songs" version="0.1" statusCode="" item="_beCFIiqQEeuMxpxQj7KPOg" displayName="youtube_songs">
+    <author href="../../../talend.project#_ZB04ASH2Eeu70-y0KUv54Q"/>
+    <additionalProperties xmi:id="_beFvgCqQEeuMxpxQj7KPOg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_beGWkCqQEeuMxpxQj7KPOg" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_beGWkSqQEeuMxpxQj7KPOg" key="created_date" value="2020-11-19T18:55:37.208+0100"/>
+    <additionalProperties xmi:id="_beGWkiqQEeuMxpxQj7KPOg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_beGWkyqQEeuMxpxQj7KPOg" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_beGWlCqQEeuMxpxQj7KPOg" key="modified_date" value="2020-11-19T19:27:02.860+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_beCFISqQEeuMxpxQj7KPOg" path="data_quality_project"/>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_beCFIiqQEeuMxpxQj7KPOg" property="_beCFICqQEeuMxpxQj7KPOg" state="_beCFISqQEeuMxpxQj7KPOg">
+    <connection href="youtube_songs_0.1.item#_bd_o4CqQEeuMxpxQj7KPOg"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_riCsmSqWEeuMxpxQj7KPOg" id="_riCFgCqWEeuMxpxQj7KPOg" label="youtube_channels" purpose="youtube channels" description="youtube channels" version="0.1" statusCode="" item="_riCsmyqWEeuMxpxQj7KPOg" displayName="youtube_channels">
+    <author href="../../../talend.project#_ZB04ASH2Eeu70-y0KUv54Q"/>
+    <additionalProperties xmi:id="_riGW8CqWEeuMxpxQj7KPOg" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_riGW8SqWEeuMxpxQj7KPOg" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_riG-ACqWEeuMxpxQj7KPOg" key="created_date" value="2020-11-19T19:40:21.983+0100"/>
+    <additionalProperties xmi:id="_riG-ASqWEeuMxpxQj7KPOg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_riG-AiqWEeuMxpxQj7KPOg" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_riG-AyqWEeuMxpxQj7KPOg" key="modified_date" value="2020-11-19T19:40:21.983+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_riCsmiqWEeuMxpxQj7KPOg" path="data_quality_project"/>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_riCsmyqWEeuMxpxQj7KPOg" property="_riCsmSqWEeuMxpxQj7KPOg" state="_riCsmiqWEeuMxpxQj7KPOg">
+    <connection href="youtube_channels_0.1.item#_riCskCqWEeuMxpxQj7KPOg"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_chRaYCH2Eeu70-y0KUv54Q" id="_chQzUSH2Eeu70-y0KUv54Q" label="SnowflakeDropSourceTable" version="0.1" item="_chRaYiH2Eeu70-y0KUv54Q">
+    <author href="../../../talend.project#_ZB04ASH2Eeu70-y0KUv54Q"/>
+    <additionalProperties xmi:id="_chRaYyH2Eeu70-y0KUv54Q" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_chRaZCH2Eeu70-y0KUv54Q" key="created_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_chRaZSH2Eeu70-y0KUv54Q" key="created_date" value="2020-11-08T20:13:12.454+0100"/>
+    <additionalProperties xmi:id="_chRaZiH2Eeu70-y0KUv54Q" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_chRaZyH2Eeu70-y0KUv54Q" key="modified_product_version" value="7.3.1.20200219_1130"/>
+    <additionalProperties xmi:id="_chRaaCH2Eeu70-y0KUv54Q" key="modified_date" value="2020-11-08T20:13:12.454+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_chRaYSH2Eeu70-y0KUv54Q" path="Snowflake/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_chRaYiH2Eeu70-y0KUv54Q" property="_chRaYCH2Eeu70-y0KUv54Q" state="_chRaYSH2Eeu70-y0KUv54Q" system="true" eltName="Snowflake">
+    <content href="SnowflakeDropSourceTable_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

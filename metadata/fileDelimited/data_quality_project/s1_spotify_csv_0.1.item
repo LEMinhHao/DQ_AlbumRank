@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Qh5i8DAbEeurJ4PhcbsiZg" name="s1_spotify_csv" dataPackage="_QiA3sDAbEeurJ4PhcbsiZg" Server="Localhost 127.0.0.1" FilePath="D:/Soft/Talend/Talend-DI/TOS_DI-Win32-20200219_1130-V7.3.1/workspace/TALEND_TEST/project_data/data_quality - S1.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;\\&quot;" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_QiA3sDAbEeurJ4PhcbsiZg" name="default" dataManager="_Qh5i8DAbEeurJ4PhcbsiZg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_QiA3sTAbEeurJ4PhcbsiZg" id="_m6Tk0DAaEeurJ4PhcbsiZg" label="s1_spotify">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QiA3sjAbEeurJ4PhcbsiZg" label="nom_album" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QiA3szAbEeurJ4PhcbsiZg" label="genre" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QiA3tDAbEeurJ4PhcbsiZg" label="date_sortie" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QiA3tTAbEeurJ4PhcbsiZg" label="chanson" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QiA3tjAbEeurJ4PhcbsiZg" label="nombre_ecoute" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_QiA3tzAbEeurJ4PhcbsiZg" label="nom_artiste" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
